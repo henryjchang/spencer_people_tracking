@@ -2,5 +2,5 @@
 Changelog for package srl_tracking_exporter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2016-01-28)
+------------------

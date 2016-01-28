@@ -2,5 +2,5 @@
 Changelog for package spencer_tracking_metrics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2016-01-28)
+------------------

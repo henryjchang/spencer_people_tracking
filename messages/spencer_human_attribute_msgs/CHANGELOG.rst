@@ -2,5 +2,5 @@
 Changelog for package spencer_human_attribute_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2016-01-28)
+------------------
