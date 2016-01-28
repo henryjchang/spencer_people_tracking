@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>spencer_social_relations</name>
-  <version>1.0.1</version>
+  <version>0.0.0</version>
   <description>
     Calculates various kinds of spencer_social_relation_msgs/SocialRelations from spencer_tracking_msgs/TrackedPersons
   </description>
@@ -12,14 +12,14 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>rospy</build_depend>
-  <build_depend>roscpp</build_depend> 
-  <build_depend>roslib</build_depend> 
-  <build_depend>tf</build_depend> 
-  <build_depend>spencer_tracking_msgs</build_depend> 
-  <build_depend>spencer_social_relation_msgs</build_depend> 
+  <build_depend>roscpp</build_depend>
+  <build_depend>roslib</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>spencer_tracking_msgs</build_depend>
+  <build_depend>spencer_social_relation_msgs</build_depend>
   <build_depend>libsvm-dev</build_depend>
-  <build_depend>python-numpy</build_depend> 
-  <build_depend>python-scipy</build_depend> 
+  <build_depend>python-numpy</build_depend>
+  <build_depend>python-scipy</build_depend>
   <build_depend>cmake_modules</build_depend>
 
   <run_depend>rospy</run_depend>
@@ -29,7 +29,7 @@
   <run_depend>spencer_tracking_msgs</run_depend>
   <run_depend>spencer_social_relation_msgs</run_depend>
   <run_depend>libsvm-dev</run_depend>
-  <run_depend>python-numpy</run_depend> 
-  <run_depend>python-scipy</run_depend> 
+  <run_depend>python-numpy</run_depend>
+  <run_depend>python-scipy</run_depend>
 
 </package>
