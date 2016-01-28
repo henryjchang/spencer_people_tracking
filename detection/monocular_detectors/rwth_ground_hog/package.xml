@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rwth_ground_hog</name>
-  <version>0.0.0</version>
+  <version>1.0.0</version>
   <description>The ground_hog package</description>
 
   <maintainer email="cdondrup@lincoln.ac.uk">Christian Dondrup</maintainer>
@@ -34,6 +34,6 @@
   <run_depend>image_transport</run_depend>
   <run_depend>spencer_tracking_msgs</run_depend>
   <run_depend>spencer_diagnostics</run_depend>
-  
+
   <export/>
 </package>
