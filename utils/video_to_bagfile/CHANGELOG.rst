@@ -1,0 +1,14 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package video_to_bagfile
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Forthcoming
+-----------
+* cleaning up changelog and back to 0.0.0
+* 0.0.1
+* update downgraded version to 0.0.0
+* 1.0.1
+* unitied the tags numbers
+* Add changelogs
+* Adding tool for converting videos (e.g. from DSLR camera) into bagfiles
+* Contributors: Michael Jae-Yoon Chung, Timm Linder
