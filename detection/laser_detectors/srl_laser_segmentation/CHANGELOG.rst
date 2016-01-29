@@ -2,6 +2,9 @@
 Changelog for package srl_laser_segmentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.1 (2016-01-28)
 ------------------
 * cleaning up changelog and back to 0.0.0

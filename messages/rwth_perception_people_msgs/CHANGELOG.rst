@@ -2,6 +2,9 @@
 Changelog for package rwth_perception_people_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.1 (2016-01-28)
 ------------------
 * cleaning up changelog and back to 0.0.0

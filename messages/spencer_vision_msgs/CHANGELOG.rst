@@ -2,6 +2,9 @@
 Changelog for package spencer_vision_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.1 (2016-01-28)
 ------------------
 * cleaning up changelog and back to 0.0.0
