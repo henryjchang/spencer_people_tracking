@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(savibot)
+project(spencer_people_tracking)
 find_package(catkin REQUIRED)
 catkin_metapackage()
