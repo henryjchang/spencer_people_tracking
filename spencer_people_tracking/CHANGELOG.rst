@@ -2,8 +2,8 @@
 Changelog for package spencer_people_tracking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2016-01-28)
+------------------
 * fixing typo
 * Contributors: Michael Jae-Yoon Chung
 
