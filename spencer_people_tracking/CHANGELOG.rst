@@ -2,7 +2,7 @@
 Changelog for package spencer_people_tracking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2016-01-28)
+------------------
 * add meta package
 * Contributors: Michael Jae-Yoon Chung
