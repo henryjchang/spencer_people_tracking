@@ -1,7 +1,13 @@
 <launch>
+
+    <node name="scan_to_spencer" pkg="topic_tools" type="relay" args="/base_scan /spencer/sensors/laser_front/echo0" />
+    <!-- <node name="forward_depth_to_spencer_depth" pkg="topic_tools" type="relay" args="/camera_forward/depth/image_rect /spencer/sensors/rgbd_front_top/depth/image_rect" />
+    <node name="forward_rgb_info_to_spencer_rgb_info" pkg="topic_tools" type="relay" args="/camera_forward/rgb/camera_info /spencer/sensors/rgbd_front_top/rgb/camera_info" />
+    <node name="forward_rgb_raw_to_spencer_rgb_raw" pkg="topic_tools" type="relay" args="/camera_forward/rgb/image_raw /spencer/sensors/rgbd_front_top/rgb/image_raw" /> -->
+
     <!-- Detectors -->
-    <include file="$(find spencer_people_tracking_launch)/launch/detectors/front_rgbd_detectors.launch"/>
-    <include file="$(find spencer_people_tracking_launch)/launch/detectors/rear_rgbd_detectors.launch"/>
+    <!-- <include file="$(find spencer_people_tracking_launch)/launch/detectors/front_rgbd_detectors.launch"/> -->
+    <!-- <include file="$(find spencer_people_tracking_launch)/launch/detectors/rear_rgbd_detectors.launch"/> -->
     <include file="$(find spencer_people_tracking_launch)/launch/detectors/laser_detectors.launch"/> 
 
     <!-- People tracking -->

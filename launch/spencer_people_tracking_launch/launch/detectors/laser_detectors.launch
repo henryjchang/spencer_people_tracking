@@ -1,5 +1,5 @@
 <launch>
-    <arg name="rear"  default="true"/>
+    <arg name="rear"  default="false"/>
     <arg name="adaboost_model" default="lms500"/>
 
     <arg name="detection_id_increment" default="20"/>
